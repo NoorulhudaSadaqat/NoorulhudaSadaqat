@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoorulhudaSadaqat
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me email on noorulhudasadaqat48@gmail.com
 
 <!---
